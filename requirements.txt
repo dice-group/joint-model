@@ -1,0 +1,9 @@
+numpy
+pandas
+gensim
+tqdm
+nltk
+pandas_ml
+imblearn
+scikit-learn
+tensorflow
