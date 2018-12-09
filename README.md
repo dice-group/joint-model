@@ -1,7 +1,7 @@
 # Getting Started
 
 This repository contains the source code and dataset for the paper _'Semantic-based Jointly Learning From Social Media and
- Environmental Data For Disaster Prediction'. by Hamada Zahera, Mohamed Ahmed Sherif and Axel Ngonga
+ Environmental Data For Disaster Prediction'_ by Hamada Zahera, Mohamed Ahmed Sherif and Axel Ngonga
 
 Our approach predicts the typhoon intensity via a joint learning from social media and environmental data. 
 This implementation is written in Python 3.6 and uses Tensorflow 1.4.1.
