@@ -20,10 +20,8 @@ pip install -r requirements.txt
 
 ```
 
-### Retrieve Typhoon Tweets
-
-Due to tweets copyrights, we can only share the ids of tweets used in our experiments. To download the full
-tweets data, please use Twitter API tool such as twarc
+### Typhoon Tweets
+Since Twitter terms do not allow public sharing of tweets, only the tweetids of the tweets will be provided. To download the full tweets data, please use Twitter API tool such as twarc
 
 ```
 https://github.com/DocNow/twarc
