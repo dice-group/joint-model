@@ -1,8 +1,6 @@
 # Getting Started
 
-This repository contains the source code and dataset for the paper _'Semantic-based Jointly Learning From Social Media and
- Environmental Data For Disaster Prediction'_ by Hamada Zahera, Mohamed Ahmed Sherif and Axel Ngonga
-
+This repository contains the source code and dataset for the paper "The title is removed as the paper is under review"
 Our approach predicts the typhoon intensity via a joint learning from social media and environmental data. 
 
 
