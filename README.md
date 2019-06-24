@@ -2,7 +2,7 @@
 
 This repository contains the source code and dataset for the paper "Jointly Learning from Social Media and Environmental Data forTyphoon Intensity Prediction" 
 
- In this work, we consider social media as a supplementary source of knowledge in addition to environmental data. We propose the combination of semantically-enriched word embedding model to represent entities in tweets with their semantics representations computed with the traditional word2vec. Moreover,we study how social media users interact during typhoons-in termsof volume and sentiments of tweets- and the correlation with typhoon intensity. Based on these insights, we build a joint model that learns from disaster-related tweets and environmental data to improve prediction. 
+In this work, we consider social media as a supplementary source of knowledge in addition to environmental data. We propose the combination of semantically-enriched word embedding model to represent entities in tweets with their semantics representations computed with the traditional word2vec. Moreover,we study how social media users interact during typhoons-in termsof volume and sentiments of tweets- and the correlation with typhoon intensity. Based on these insights, we build a joint model that learns from disaster-related tweets and environmental data to improve prediction. 
  
 ### Prerequisites
 
