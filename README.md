@@ -37,6 +37,7 @@ We made available the source code of baselines and proposed models into jupyter 
 - **Demo_2** explores the performance of baseline model (DNN) and proposed model (LSTM+DNN)
 - **Demo_3** explores the impact of semantics embedding in LSTM+RNN model
 - **Demo_4** explores the impact of semantics embedding in LSTM+DNN model
+- **Demo_5** explores SVM as a baseline from traditional machine learning approaches.
 
 To run the above-mentioned demos, we provide a preprocessed dataset (training and testing batches) which have been preprocessed in our experiments.
 ### Contact
