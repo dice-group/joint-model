@@ -6,7 +6,9 @@
 HAGUIT, HAIYAN, RAMMASUN, and SANBA</figcaption>
 
 </figure>	
----
+
+___
+
 Typhoon environmental data are tracked periodically (i.e. at regular time intervals) before, during and after they strike.
 The goal of our work is to detect the intensity of typhoons not only based on such environmental data but also based on data collected by humans in the form of social media posts during each of the typhoons under study.
 To pair social media with the environmental data of typhoons, we collect all tweets posted within the time slot of the respective environmental data into one batch. 
