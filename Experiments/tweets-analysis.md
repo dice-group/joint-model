@@ -3,7 +3,8 @@ Typhoon environmental data are tracked periodically (i.e. at regular time interv
 The goal of our work is to detect the intensity of typhoons not only based on such environmental data but also based on data collected by humans in the form of social media posts during each of the typhoons under study.
 To pair social media with the environmental data of typhoons, we collect all tweets posted within the time slot of the respective environmental data into one batch. 
 
-Inspired by the work of [1,2], we thus analyzed the volume of tweets as well as sentiments during different time slots of typhoons. ![As shown in](/media/2018/08/kitten.jpg "Tweets Analysis During Typhoons"), the upper row of plots depicts our content analysis of tweets during four different typhoons,
+Inspired by the work of [1,2], we thus analyzed the volume of tweets as well as sentiments during different time slots of typhoons. We visualized our tweets analysis in <img src="/media/2018/08/kitten.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />, the upper row of plots depicts our content analysis of tweets during four different typhoons,
 where we explored how typhoon intensities vary during typhoon days.
 In the middle row of plot of the same figure, we present the count of tweets within the same time slots of the provided intensity in the upper row.
 
