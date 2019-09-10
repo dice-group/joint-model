@@ -1,10 +1,19 @@
 # Our Tweets Analysis of Typhoons between 2006-2016
+<figure>	
+ <img src="https://github.com/dice-group/joint-model/blob/master/Experiments/tweets_analysis.png" alt="Kitten"
+	title="Tweets Analysis" width="500" height="500"  class="center"/>
+<figcaption>Fig.1 Our analysis of social media during the typhoons
+HAGUIT, HAIYAN, RAMMASUN, and SANBA</figcaption>
+
+</figure>	
+
+___
+
 Typhoon environmental data are tracked periodically (i.e. at regular time intervals) before, during and after they strike.
 The goal of our work is to detect the intensity of typhoons not only based on such environmental data but also based on data collected by humans in the form of social media posts during each of the typhoons under study.
 To pair social media with the environmental data of typhoons, we collect all tweets posted within the time slot of the respective environmental data into one batch. 
-
-Inspired by the work of [1,2], we thus analyzed the volume of tweets as well as sentiments during different time slots of typhoons. We visualized our tweets analysis in <img src="/media/2018/08/kitten.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />, the upper row of plots depicts our content analysis of tweets during four different typhoons,
+	
+Inspired by the work of [1,2], we thus analyzed the volume of tweets as well as sentiments during different time slots of typhoons. As shown in Figure 1, the upper row of plots depicts our content analysis of tweets during four different typhoons,
 where we explored how typhoon intensities vary during typhoon days.
 In the middle row of plot of the same figure, we present the count of tweets within the same time slots of the provided intensity in the upper row.
 
