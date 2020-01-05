@@ -7,6 +7,7 @@ In this work, we consider social media as a supplementary source of knowledge in
 <p align="center"> 
 <img src="JointModel-Extension.png">
 </p> 
+
 ### Prerequisites
 
 install the requirements via
