@@ -1,6 +1,6 @@
 # Getting Started
 
-This repository contains the source code and dataset for the paper "Jointly Learning from Social Media and Environmental Data forTyphoon Intensity Prediction" 
+This repository contains the source code and dataset for "Semantic-based End-to-End Learning for Typhoon Intensity Prediction" 
 
 In this work, we consider social media as a supplementary source of knowledge in addition to environmental data. We propose the combination of semantically-enriched word embedding model to represent entities in tweets with their semantics representations computed with the traditional word2vec. Moreover,we study how social media users interact during typhoons-in termsof volume and sentiments of tweets- and the correlation with typhoon intensity. Based on these insights, we build a joint model that learns from disaster-related tweets and environmental data to improve prediction. 
  
@@ -35,8 +35,9 @@ We made available the source code of baselines and proposed models into jupyter 
 - **Demo_3** explores the impact of semantics embedding in LSTM+RNN model
 - **Demo_4** explores the impact of semantics embedding in LSTM+DNN model
 - **Demo_5** explores SVM as a baseline from traditional machine learning approaches.
+- **Demo_6** explores the performance of SOAT baseline (CNN and BiLSTM) and our proposed approach (BiLSTM+CNN)
 
-To run the above-mentioned demos, we provide a preprocessed dataset (training and testing batches) which have been preprocessed in our experiments.
+To run the above-mentioned demos, we provide a preprocessed dataset which have been preprocessed in our experiments.
 ### Contact
 
 Please contact hamada.zahera@upb.de in case you have any questions.
